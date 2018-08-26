@@ -1,2 +1,10 @@
-
- # Arquitetura * As funá‰es relacionadas ao gerenciamento das casas do jogo da velha ficar∆o no m¢dulo **jogovelha.py**. * O estado de cada casa do jogo ser† representada por uma string: "." para casa vazia; "X" para casa ocupada pelo 1o jogador; "O" para casa ocupada pelo 2o jogador * A funá∆o inicializar() retornar† uma lista 3x3, onde cada posiá∆o conter† uma string para indicar o estado de uma casa do jogo. A funá∆o retornar† todas as casas inicialmente vazias.
+# Arquitetura
+* As fun√ß√µes relacionadas ao gerenciamento das casas do
+jogo da velha ficar√£o no m√≥dulo **jogovelha.py**.
+* O estado de cada casa do jogo ser√° representada por uma
+string: "." para casa vazia; "X" para casa ocupada pelo 1o
+jogador; "O" para casa ocupada pelo 2o jogador
+* A fun√ß√£o inicializar() retornar√° uma lista 3x3, onde cada
+posi√ß√£o conter√° uma string para indicar o estado de uma
+casa do jogo. A fun√ß√£o retornar√° todas as casas
+inicialmente vazias.
