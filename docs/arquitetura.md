@@ -8,3 +8,6 @@ jogador; "O" para casa ocupada pelo 2o jogador
 posição conterá uma string para indicar o estado de uma
 casa do jogo. A função retornará todas as casas
 inicialmente vazias.
+
+Alteração 2
+
